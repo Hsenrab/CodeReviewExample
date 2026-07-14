@@ -1,0 +1,13 @@
+vegetable,colour,calories_per_100g,vitamin_c_mg_per_100g,fibre_g_per_100g,season,popularity_score
+Carrot,Orange,41,5.9,2.8,Autumn,8.2
+Broccoli,Green,34,89.2,2.6,Winter,7.8
+Spinach,Green,23,28.1,2.2,Spring,7.1
+Tomato,Red,18,13.7,1.2,Summer,9.1
+Courgette,Green,17,17.9,1.1,Summer,6.5
+Beetroot,Purple,43,4.9,2.8,Autumn,7.3
+Sweetcorn,Yellow,86,6.8,2.7,Summer,8.5
+Pea,Green,81,40.0,5.1,Spring,7.9
+Cauliflower,White,25,48.2,2.0,Autumn,6.8
+Kale,Green,49,120.0,3.6,Winter,6.2
+Parsnip,White,75,17.0,4.7,Winter,5.9
+Pepper,Red,31,127.7,2.1,Summer,8.0
